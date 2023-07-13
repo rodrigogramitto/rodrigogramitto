@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Rodrigo</h1>
 <h3 align="center">A musician turned Software Engineer</h3>
 
-- 🌱 I’m currently learning **C++, TypeScript**
+- 🌱 TypeScript and C++ enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
