@@ -34,7 +34,7 @@
 <h3>🏆 My Github Stats:</h3>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=rodrigogramitto&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=rodrigogramitto&hide=stars&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigogramitto&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogramitto&hide=stars)](https://github.com/rodrigogramitto&hide=stars/github-readme-stats)">
