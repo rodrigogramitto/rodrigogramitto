@@ -1,15 +1,15 @@
-## Hi there 👋 I'm rodrigogramitto but you can call me Rodrigo 😁 
+## Hi there 👋 I'm Rodrigo 😁 
 <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LukeLarson2.LukeLarson2"/> <span><img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/></span>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigogramitto.rodrigogramitto"/> <span><img src="https://img.shields.io/github/followers/rodrigogramitto?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm an Full Stack Developer and a former Touring Musician.
+## 🎓 I'm a Fullstack Developer and a former Touring Musician.
 
 - 🚀 Currently advancing my debut npm package, standsit timer.
-- 🌿 Deepening my skills in intermediate full-stack development through Galvanize's program Hackreactor.
-- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
+- 🌿 Deepening my skills in Full Stack Development as a Support Engineer at Galvanize.
+- 🤝 Eager to build cool tools with cooler people.
 - 🗨️ Feel free to inquire about any topic.
-- ✨ Interesting tidbit: Spent a decade in the Navy and have a passion for trampoline acrobatics!
+- ✨ Interesting tidbit: Spent a decade touring the world and can speak 3 languages fluently!
 
 ## ✉ Find me on:
 <br />
@@ -27,7 +27,7 @@
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,express,babel,jest,vscode,bash,git,github,linux,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,firebase,sequelize,webpack,vite,python,c++" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,express,babel,jest,vscode,bash,git,github,linux,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,firebase,sequelize,webpack,vite,python,cpp" />
   </a>
 </p>
 
