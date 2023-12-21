@@ -37,7 +37,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=rodrigogramitto&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigogramitto&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogramitto&hide=php&theme=tokyonight">
+<a href="[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogramitto)](https://github.com/anuraghazra/github-readme-stats)">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogramitto&hide=php&theme=tokyonight" />
 </a>
 </div>
