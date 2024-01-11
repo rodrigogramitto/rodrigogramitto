@@ -5,7 +5,7 @@
 
 ## 🎓 I'm a Fullstack Developer and a former Touring Musician.
 
-- 🚀 Currently advancing my debut npm package, standsit timer.
+- 🚀 Currently working on v2.2 of my npm package, standsit timer.
 - 🌿 Deepening my skills in Full Stack Development as a Support Engineer at Galvanize.
 - 🤝 Eager to build cool tools with cooler people.
 - 🗨️ Feel free to inquire about any topic.
