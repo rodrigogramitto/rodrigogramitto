@@ -6,7 +6,7 @@
 ## 🎓 I'm a Fullstack Developer and a former Touring Musician.
 
 - 🚀 Currently working on v2.2 of my npm package, standsit timer.
-- 🌿 Deepening my skills in Full Stack Development as a Support Engineer at Galvanize.
+- 🌿 Fullstack (Backend Focus) Developer II at Falvey Insurance Group.
 - 🤝 Eager to build cool tools with cooler people.
 - 🗨️ Feel free to inquire about any topic.
 - ✨ Interesting tidbit: Spent a decade touring the world and can speak 3 languages fluently!
