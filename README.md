@@ -5,7 +5,7 @@
 
 ## 🎓 I'm a Software Engineer and a former Touring Musician.
 
-- 🚀 Currently working on a Compiler (Project 10) in Nand 2 Tetris.
+- 🚀 Currently working on a Compiler (Project 11) in Nand 2 Tetris.
 - 🌿 Fullstack (Backend Focus) Developer II at Falvey Insurance Group.
 - 🤝 Eager to build cool tools with cooler people.
 - 🗨️ Feel free to inquire about any topic.
